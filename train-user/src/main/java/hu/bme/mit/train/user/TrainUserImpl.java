@@ -38,6 +38,6 @@ public class TrainUserImpl implements TrainUser {
 
 	@Override
 	public void releaseSpeed() {
-		lock = false
+		lock = false;
 	}
 }
