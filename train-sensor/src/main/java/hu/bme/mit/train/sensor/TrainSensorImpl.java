@@ -26,4 +26,6 @@ public class TrainSensorImpl implements TrainSensor {
 		controller.setSpeedLimit(speedLimit);
 	}
 
+	Table<String, String, Integer> universityCourseSeatTable = HashBasedTable.create();
+
 }
