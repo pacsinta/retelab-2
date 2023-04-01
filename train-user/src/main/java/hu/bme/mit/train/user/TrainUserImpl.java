@@ -34,6 +34,7 @@ public class TrainUserImpl implements TrainUser {
 	@Override
 	public void lockSpeed() {
 		lock = true;
+		controller.setJoystickPosition(0);
 	}
 
 	@Override
