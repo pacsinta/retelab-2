@@ -5,7 +5,7 @@ This is a sample application for the verification laboratory.
 * lista elem test. 
 
 ## Ez is egy test `paragraph`
-**Ez egy kiemelt test**
+**Ez egy kiemelt test alma**
 
 
 ## Getting started
